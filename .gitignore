@@ -1,0 +1,26 @@
+# 1. 빌드 결과물 (절대 포함하지 마세요)
+*.hex
+*.elf
+*.o
+*.obj
+*.map
+*.a
+*.lss
+*.eep
+*.srec
+
+# 2. Atmel/Microchip Studio 관련
+*.atsln
+*.atmelproj
+*.asfproj
+*.cproj
+.vs/
+Debug/
+Release/
+
+# 3. VS Code 관련
+.vscode/
+
+# 4. OS 관련 파일
+.DS_Store
+Thumbs.db
